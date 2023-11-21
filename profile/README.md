@@ -2,7 +2,7 @@
 
 The [Bold Reports](https://www.boldreports.com/) provides rich set of Embedded Reporting Tools [Report Viewer](https://www.boldreports.com/embedded-reporting/aspnet-core-report-viewer), [Report Designer](https://www.boldreports.com/embedded-reporting/aspnet-core-report-designer), [Report Writer](https://www.boldreports.com/embedded-reporting/aspnet-core-report-writer) and [Report Server](https://www.boldreports.com/features) in a single point of access to design, preview, manage, schedule, export and print the reports.
 
-[![Welcome to Bold Reports](https://cdn.boldreports.com/website/images/pages/home/app-tour-thumbnail.png)](https://cdn.boldreports.com/website/images/pages/home/app-tour.mp4)
+<video autoplay="" loop="" muted="muted" playsinline="" controlslist="nodownload" poster="https://cdn.boldreports.com/website/images/pages/home/app-tour-thumbnail.png" src="https://cdn.boldreports.com/website/images/pages/home/app-tour.mp4"></video>
 
 ## Overview
 
@@ -73,6 +73,3 @@ Manage costs with a predictable and simple pricing model.
 * For any other queries, reach the [Bold Reports support team](https://support.boldreports.com/).
 
 * Don't see what you need? Please request it in our [feedback portal](https://www.boldreports.com/feedback).
-
-
-Copyright © 2001 - 2023 Syncfusion, Inc. All Rights Reserved
