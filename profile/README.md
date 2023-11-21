@@ -1,6 +1,6 @@
 # Embed Paginated Reports in Modern Apps with Bold Reports
 
-The [Bold Reports](https://www.boldreports.com/) provides rich set of Embedded Reporting Tools [Report Viewer](https://www.boldreports.com/embedded-reporting/aspnet-core-report-viewer), [Report Designer](https://www.boldreports.com/embedded-reporting/aspnet-core-report-designer), [Report Writer](https://www.boldreports.com/embedded-reporting/aspnet-core-report-writer) and [Report Server](https://www.boldreports.com/features) in a single point of access to design, preview, manage, schedule, export and print the reports.
+The [Bold Reports](https://www.boldreports.com/) provides a rich set of Embedded Reporting Tools, including [Report Viewer](https://www.boldreports.com/embedded-reporting/aspnet-core-report-viewer), [Report Designer](https://www.boldreports.com/embedded-reporting/aspnet-core-report-designer), [Report Writer],(https://www.boldreports.com/embedded-reporting/aspnet-core-report-writer) and [Report Server](https://www.boldreports.com/features), all in a single point of access to design, preview, manage, schedule, export and print reports.
 
 [![Welcome to Bold Reports](https://cdn.boldreports.com/website/images/pages/home/app-tour-thumbnail.png)](https://cdn.boldreports.com/website/images/pages/home/app-tour.mp4)
 
@@ -45,7 +45,7 @@ Take a look at our demos.
 
 ## Learning
 
-Take a look at our variety of the resources to getting started.
+Explore a variety of resources to get started.
 
 * [Documentation](https://help.boldreports.com/)
 * [Blog](https://www.boldreports.com/blog)
@@ -62,9 +62,9 @@ Take a look at our variety of the resources to getting started.
 
 ## Licensing
 
-Manage costs with a predictable and simple pricing model.
+Manage costs with a predictable and simple pricing model. View more about [Pricing](https://www.boldreports.com/pricing) on our website.
 
-[View More about Pricing](https://www.boldreports.com/pricing)
+
 
 ## Support and feedback
 
