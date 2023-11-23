@@ -1,4 +1,4 @@
-# Embed Paginated Reports in Modern Apps with Bold Reports
+# Embed Printable Reports in Modern Apps with Bold Reports
 
 The [Bold Reports](https://www.boldreports.com/) provides a rich set of Embedded Reporting Tools, including [Report Viewer](https://www.boldreports.com/embedded-reporting/aspnet-core-report-viewer), [Report Designer](https://www.boldreports.com/embedded-reporting/aspnet-core-report-designer), [Report Writer](https://www.boldreports.com/embedded-reporting/aspnet-core-report-writer), and [Report Server](https://www.boldreports.com/features), all in a single point of access to design, preview, manage, schedule, export and print reports.
 
